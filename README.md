@@ -37,4 +37,6 @@ and exploring AI-powered applications.
 
 I'm always open to connecting with fellow engineers, collaborating on projects, and exploring new opportunities.
 
-💼 [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
+💼 [LinkedIn](www.linkedin.com/in/saikarthick-c-144a4b205
+
+)
