@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Saikarthick! 👋
 
-<!--
-**Saikarthick11/Saikarthick11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Cloud & DevOps | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm currently pursuing my Master's in Computer Science at
+**George Mason University**, graduating in May 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked as a **Cloud Engineer at Ford Motor Company**,
+where I developed cloud-native applications, automated infrastructure,
+and worked with production environments on Google Cloud.
+
+I'm passionate about building scalable software, cloud infrastructure,
+and exploring AI-powered applications.
+
+## 🚀 About Me
+
+- 🎓 MS Computer Science @ George Mason University
+- 💼 Former Cloud Engineer @ Ford Motor Company
+- ☁️ Experienced with GCP, Terraform, Python, and Go
+- 🛠️ Interested in Software Engineering, Cloud, and DevOps
+- 🤖 Exploring AI Agents, LLMs, and cloud-native technologies
+- 🎯 Seeking full-time opportunities starting May 2027
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Go, Java, JavaScript, C, C++
+
+**Cloud:** Google Cloud Platform, AWS
+
+**DevOps:** Terraform, Docker, Kubernetes, Jenkins, Tekton, Linux, Git
+
+**Backend & Databases:** FastAPI, PostgreSQL, MySQL
+
+**AI:** LangGraph, LLMs, Model Context Protocol (MCP)
+
+## 🌐 Connect With Me
+
+- [Portfolio](https://saikarthick11.github.io/Portfolio/)
+- [GitHub](https://github.com/Saikarthick11)
