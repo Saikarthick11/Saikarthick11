@@ -33,7 +33,8 @@ and exploring AI-powered applications.
 
 **AI:** LangGraph, LLMs, Model Context Protocol (MCP)
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-- [Portfolio](https://saikarthick11.github.io/Portfolio/)
-- [GitHub](https://github.com/Saikarthick11)
+I'm always open to connecting with fellow engineers, collaborating on projects, and exploring new opportunities.
+
+💼 [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
